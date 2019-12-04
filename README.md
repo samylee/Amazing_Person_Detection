@@ -21,7 +21,6 @@ or:    Amazing_Person_Detection.exe video 0  (for usbcam)
 # Test experience
 If the image size is larger than `720p`, it is recommended to scale the image `below 720p`!
 # Example result
-![image](https://github.com/samylee/Amazing_Person_Detection/blob/master/result/0.jpg)
-![image](https://github.com/samylee/Amazing_Person_Detection/blob/master/result/1.jpg)
+![image](https://github.com/samylee/Amazing_Person_Detection/blob/master/result.jpg)
 # Reference
 https://blog.csdn.net/samylee
