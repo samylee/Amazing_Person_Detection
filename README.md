@@ -19,6 +19,5 @@ or:    Amazing_Person_Detection.exe video 0  (for usbcam)
 
 # Example result
 ![image](https://github.com/samylee/Amazing_Person_Detection/blob/master/result/0.jpg)
-![image](https://github.com/samylee/Amazing_Person_Detection/blob/master/result/1.jpg)
 # Reference
 https://blog.csdn.net/samylee
