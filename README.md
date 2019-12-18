@@ -13,11 +13,11 @@ or:    Amazing_Person_Detection.exe video test.avi  (for video)
 or:    Amazing_Person_Detection.exe video 0  (for usbcam)
 ```
 # Algorithm efficiency
-| Image Size | Speed | FPS | CPU | min_size |
-|:------:|:------:|:------:|:------:|:------:|
-| 320x240  | 8ms |125| i7-9700K | 10x10 |
-| 640x480  | 28ms |35.7| i7-9700K | 10x10 |
-| 800x600  | 42ms |23.8| i7-9700K | 10x10 |
+| Image Size | min_size | CPU(i7-9700K) Speed/FPS | CPU(ARMv7 @1.4GHz) Speed/FPS |
+|:------:|:------:|:------:|:------:|
+| 320x240  | 10x10 | 8ms/125.0 |46ms/21.7|
+| 640x480  | 10x10 | 28ms/35.7 |210ms/4.8|
+| 800x600  | 10x10 | 42ms/23.8 |    -    |
 # Test experience
 If the image size is larger than `720p`, it is recommended to scale the image `below 720p`!
 # Example result
