@@ -1,5 +1,5 @@
 # Amazing_Person_Detection
-CPU Real-time Amazing Multi-scale Person Detection
+CPU Real-time Amazing Multi-scale Person Detection V1
 # FIND CODE  
 https://blog.csdn.net/samylee/article/details/103395516  
 # Test steps
