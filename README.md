@@ -1,4 +1,4 @@
-# Amazing_Person_Detection
+# Amazing_Person_Detection_V1
 CPU Real-time Amazing Multi-scale Person Detection V1
 # FIND CODE  
 https://blog.csdn.net/samylee/article/details/103395516  
